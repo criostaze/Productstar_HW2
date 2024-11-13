@@ -1,0 +1,351 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F24C947-97BA-4145-B306-3D5BCED887B1}|TaskManagement.UI\\TaskManagement.UI.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F24C947-97BA-4145-B306-3D5BCED887B1}|TaskManagement.UI\\TaskManagement.UI.csproj|solutionrelative:taskmanagement.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\domain\\taskaggregate\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\domain\\taskaggregate\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\queries\\gettaskbystatus\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\queries\\gettaskbystatus\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\queries\\gettaskbystatus\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\queries\\gettaskbystatus\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\queries\\gettaskbystatus\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\queries\\gettaskbystatus\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\queries\\getalltask\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\queries\\getalltask\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\queries\\getalltask\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\queries\\getalltask\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\queries\\getalltask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\queries\\getalltask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\starttask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\starttask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\starttask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\starttask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\deletetask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\deletetask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\deletetask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\deletetask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\createtask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\createtask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\createtask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\createtask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\completetask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\completetask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\completetask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\completetask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\changetask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\changetask\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\application\\usecases\\commands\\changetask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\application\\usecases\\commands\\changetask\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|c:\\users\\crios\\source\\repos\\productstar_hw2\\taskmanagement.core\\ports\\itaskstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA3B2367-351F-4B92-865C-5E005ECDEC3B}|TaskManagement.Core\\TaskManagement.Core.csproj|solutionrelative:taskmanagement.core\\ports\\itaskstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.UI\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagement.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.UI\\Program.cs",
+              "RelativeToolTip": "TaskManagement.UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:18.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Domain\\TaskAggregate\\Status.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Domain\\TaskAggregate\\Status.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Domain\\TaskAggregate\\Status.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Domain\\TaskAggregate\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:14.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Handler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Handler.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Handler.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:11.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Query.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Query.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Query.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:10.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Response.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Response.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Response.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetTaskByStatus\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:09.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Response.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Response.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Response.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Response.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Response.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:07.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Query.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Query.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Query.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Query.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Query.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:04.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Handler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Handler.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Handler.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Queries\\GetAllTask\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:04.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Handler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Handler.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Handler.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:01.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Command.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Command.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Command.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\StartTask\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:33:00.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Handler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Handler.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Handler.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:58.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Command.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Command.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Command.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\DeleteTask\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:58.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Command.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Command.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Command.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:56.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Handler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Handler.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Handler.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\CreateTask\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:55.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Command.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Command.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Command.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:53.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Handler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Handler.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Handler.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\CompleteTask\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:52.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Handler.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Handler.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Handler.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:51.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Command.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Command.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Command.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Application\\UseCases\\Commands\\ChangeTask\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:32:47.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ITaskStorage.cs",
+              "DocumentMoniker": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Ports\\ITaskStorage.cs",
+              "RelativeDocumentMoniker": "TaskManagement.Core\\Ports\\ITaskStorage.cs",
+              "ToolTip": "C:\\Users\\crios\\source\\repos\\Productstar_HW2\\TaskManagement.Core\\Ports\\ITaskStorage.cs",
+              "RelativeToolTip": "TaskManagement.Core\\Ports\\ITaskStorage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T03:29:30.665Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
